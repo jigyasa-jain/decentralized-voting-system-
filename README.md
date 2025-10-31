@@ -98,6 +98,6 @@ Dispute Resolution: Mechanisms for handling voting disputes and appeals
 
 This project serves as a foundation for building more sophisticated governance and voting systems on the blockchain, contributing to the evolution of decentralized democratic processes.
 
-Contract address: 0x5C6b74066624F8646fE96D5b5BE1B8F5f68a3650
+Contract address:  0x641e6c84b960B35418653d18b4453E1157354E48
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cfc06c33-1143-4f74-b12b-89400c200568" />
+
